@@ -1,0 +1,17 @@
+.contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: 0.5s;
+    color: rgb(103, 97, 97);
+    margin-bottom: 100px;
+}
+.contacts:hover{
+   box-shadow: 1px 5px 20px rgb(146, 146, 225);
+}
+.text{
+    padding: 20px;
+    width: 600px;
+}
