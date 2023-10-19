@@ -10,6 +10,7 @@ const Contacts = () => {
                 <div className='text'>
                     <h2>Контакты</h2>
                     <p>тел. 0556120804</p>
+                    <p>abaiesen04@gmail.com</p>
                     </div>
         </div>
         </div>

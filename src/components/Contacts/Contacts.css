@@ -7,6 +7,7 @@
     transition: 0.5s;
     color: rgb(103, 97, 97);
     margin-bottom: 100px;
+    box-shadow: 1px 1px 10px rgba(69, 69, 113, 0.948);
 }
 .contacts:hover{
    box-shadow: 1px 5px 20px rgb(146, 146, 225);

@@ -6,10 +6,13 @@
     border-radius: 5px;
     transition: 0.5s;
     margin-bottom: 100px;
+    box-shadow: 1px 1px 10px rgb(218, 188, 143);
+
 }
 .job-exp:hover{
    box-shadow: 1px 5px 20px rgb(218, 188, 143);
 }
 .text{
+    padding-top: 20px;
     width: 600px;
 }
